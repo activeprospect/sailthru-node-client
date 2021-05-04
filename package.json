@@ -1,5 +1,5 @@
 {
-  "name": "sailthru-client",
+  "name": "@activeprospect/sailthru-client",
   "description": "Node.js client for Sailthru API",
   "version": "3.0.5",
   "author": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/sailthru/sailthru-node-client.git"
+    "url": "http://github.com/activeprospect/sailthru-node-client.git"
   },
   "main": "./lib/sailthru.js",
   "dependencies": {
